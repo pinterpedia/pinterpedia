@@ -10,15 +10,6 @@ sections:
     subtitle: Index Link
     text: "Selamat datang di\_**Pinterpedia**, platform digital kekinian yang didedikasikan untuk berbagi informasi ensiklopedia, sejarah, budaya, pengetahuan, gaya hidup, hiburan, teknologi, dan inspirasi sehari-hari. Kami hadir untuk menyajikan konten yang ringan namun berbobot, memberikan wawasan baru, dan menginspirasi pembaca dalam berbagai aspek kehidupan.\n"
     actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
       - label: See Tutorials
         altText: ''
         url: /
