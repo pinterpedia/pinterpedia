@@ -62,7 +62,7 @@
     "secondaryLinks": [
         {
             "label": "News",
-            "altText": "News",
+            "altText": "",
             "url": "https://pinterpedia.com/blog/",
             "icon": "arrowRight",
             "iconPosition": "right",
