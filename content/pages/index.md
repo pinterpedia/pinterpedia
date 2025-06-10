@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Pinterpedia.com
 slug: /
 sections:
   - type: GenericSection
