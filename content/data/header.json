@@ -11,7 +11,7 @@
         {
             "label": "Blog",
             "altText": "Blog",
-            "url": "/blog",
+            "url": "https://pinterpedia.com/category/informasi/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
