@@ -12,7 +12,7 @@ sections:
     actions:
       - label: Pengetahuan
         altText: ''
-        url: /
+        url: 'https://pinterpedia.com/category/pengetahuan/'
         showIcon: true
         icon: arrowRight
         iconPosition: right
