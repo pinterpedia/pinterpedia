@@ -71,7 +71,7 @@
         },
         {
             "label": "Bisnis",
-            "url": "/",
+            "url": "https://pinterpedia.com/category/bisnis/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
