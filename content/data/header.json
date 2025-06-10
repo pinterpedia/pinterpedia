@@ -20,7 +20,7 @@
         {
             "label": "Pengetahuan",
             "altText": "Pengetahuan page",
-            "url": "/careers",
+            "url": "https://pinterpedia.com/category/pengetahuan/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
