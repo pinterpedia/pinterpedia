@@ -8,10 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Index Link
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: "Selamat datang di\_**Pinterpedia**, platform digital kekinian yang didedikasikan untuk berbagi informasi ensiklopedia, sejarah, budaya, pengetahuan, gaya hidup, hiburan, teknologi, dan inspirasi sehari-hari. Kami hadir untuk menyajikan konten yang ringan namun berbobot, memberikan wawasan baru, dan menginspirasi pembaca dalam berbagai aspek kehidupan.\n"
     actions:
       - label: Get started
         altText: ''
