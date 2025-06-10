@@ -20,7 +20,7 @@ sections:
         elementId: ''
         type: Link
     badge:
-      label: This is a badge
+      label: Website update terbaru setiap hari
       color: text-primary
       type: Badge
     elementId: ''
