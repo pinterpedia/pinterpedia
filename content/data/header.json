@@ -63,7 +63,7 @@
         {
             "label": "News",
             "altText": "News",
-            "url": "https://app.netlify.com/signup",
+            "url": "https://pinterpedia.com/blog/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
